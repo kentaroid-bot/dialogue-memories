@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legacy"
+  short_description: "Preserve a person's voice and memories for others to receive."
+  default_prompt: "$dialogue-legacy Turn memories of my mother's younger days into a piece that preserves her voice."

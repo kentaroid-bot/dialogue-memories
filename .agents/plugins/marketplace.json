@@ -1,0 +1,20 @@
+{
+  "name": "dialogue-memories",
+  "interface": {
+    "displayName": "Dialogue Memories"
+  },
+  "plugins": [
+    {
+      "name": "dialogue-memories",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dialogue-memories"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
