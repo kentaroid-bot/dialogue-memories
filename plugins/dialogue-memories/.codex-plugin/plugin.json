@@ -9,7 +9,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Dialogue Memories",
-    "shortDescription": "Share a memory. Become the heart of a story.",
+    "shortDescription": "Turn memories into stories",
     "longDescription": "Start with Memory: talk about a trip or an everyday moment and grow it into a piece with you at its center. Memory is enough for everyday use. Explore Making for the story behind creative work, Legacy for a record of a life, or Fiction for stories grown from experience and ideas. Choose another skill when you want to explore a different form.",
     "developerName": "Kentaro Takemura",
     "category": "Productivity",

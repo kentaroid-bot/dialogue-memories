@@ -27,7 +27,7 @@ The instructions are in English. You can talk and write in your preferred langua
 
 ## Version 0.1.0
 
-This repository contains the English initial release. OpenAI directory submission is being prepared; a directory listing will be linked here once it is published.
+This repository contains the English initial release. An OpenAI submission draft has been created; a directory listing will be linked here once it is published.
 
 For Codex, add this repository as a marketplace, then install its plugin:
 
