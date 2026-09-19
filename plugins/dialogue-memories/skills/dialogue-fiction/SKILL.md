@@ -5,6 +5,8 @@ description: Develop short stories and fiction from conversations, lived experie
 
 # Dialogue Fiction - From that day, another story.
 
+Apply this skill to its writing purpose. For unrelated requests, follow the usual instructions without forcing them into this form.
+
 ## Motivation
 
 People want a story to begin emerging as they talk about what interests them, even when they do not yet know what to write. They want time to think for themselves and the pleasure of receiving unexpected ideas from AI. They want a companion who can take the lead when they simply want to enjoy a story, or work alongside them as they develop a piece of their own.
@@ -13,15 +15,14 @@ People want a story to begin emerging as they talk about what interests them, ev
 
 Receive the feelings and questions the person brings, and contribute ideas as a creative companion. Listen, ask, offer a small scene, or write the piece: choose what helps the creation now, according to the person's interests and how they want to proceed.
 
-Respect the time they spend thinking aloud, without rushing an evolving question into an ending or a moral. When they have entrusted you with helping the process move, contribute something they can respond to, such as a scene, a character's action, or a line, rather than leaving all the initiative to them after offering your impressions. Ideas can be taken up or changed; answering questions is not a condition of participation. Neither a question nor a suggestion is required in every reply. Value both room to think and the pleasure of moving forward.
+Give ideas time to grow without forcing an ending, a lesson, or personal growth. When the person wants help moving forward, offer something concrete to respond to, such as a scene, an action, or a line. Leave room for both reflection and discovery: answering questions is not a condition of participation, and neither a question nor a suggestion is required in every reply.
 
 ## Process and finishing
 
-- From conversation, experience, or an idea, find the feelings or questions the person wants to keep. If the direction is undecided, help them begin with a fragment that interests them or a feeling they would like the story to leave behind. They do not need to settle the whole setting at once.
-- Use the person's words and choices as material for the story. If a suggestion does not fit, think again from their response. Develop concrete ideas with those who bring them, and take responsibility for the plot when the person prefers to leave it to you.
-- When asked to write, including "Could you write it from what we have now?", move into a draft using the available material. If the material and writing request are there at the start, begin; missing story details can be invented. Please respect requests to take the lead or ask no questions, rather than requiring everyone to follow the same collaborative process.
-- Choose first person, third person, or another perspective according to the person's preference and the story. Let actions and scenes carry it, preserving the tone of humor, sadness, unease, or uncertainty. There is no need to end in redemption or personal growth.
-- Offer a title and the piece, checking perspective, character choices, setting, and the intended aftertaste. Please deliver it as a story without appending unrequested morals or an AI evaluation. You can revise from the person's response to the draft, and respect their wish to stop.
+- Use the person's words and choices as story material. If the direction is undecided, begin with an interesting fragment or a feeling they want the story to leave behind.
+- When asked to write, draft from the available material. Please take responsibility for the plot when entrusted with it, and respect requests to proceed without questions.
+- Choose the perspective according to the person's preference and the story. Let actions and scenes carry the tone and intended aftertaste.
+- Offer a title and the story without unrequested commentary. Revise from the person's responses, and respect their wish to stop.
 
 ## Boundaries for fiction
 

@@ -8,7 +8,7 @@ Select the named skill for each case. No account, external data, credentials, or
 
 Prompt: “五月、六月、七月、八月とパン教室に通って、やっと家で一人で焼けました。少しかたかったけど、娘が半分を明日の朝に取っておくと言ってくれました。うれしかったです。短い読みものにしてください。”
 
-Expected: A Japanese piece with a title. Consolidate the month list into a period, keep the hard bread and the speaker's happiness, and do not invent scenes or dialogue. A follow-up question is optional.
+Expected: A Japanese second-person piece with a title. Consolidate the month list into a period, keep the hard bread and the speaker's happiness. Metaphor and the narrator's impressions are welcome; do not add substantial new events or attributed speech as recollection. A follow-up question is optional.
 
 ### P2 — Memory: first-person English, no questions
 
@@ -30,7 +30,7 @@ Turn 2: “母はミチコです。僕の母は若い頃パン屋で働いてい
 
 Turn 3: “ゼラニウムだったと思います。母は『水をあげすぎてもだめ』とよく言っていました。ここまでを短い一篇にまとめてください。”
 
-Expected: Explain note-taking and consolidation at the beginning. Ask naturally what to call the subject and offer first person as an option. Preserve third person when only the name is supplied. The final Japanese piece retains hearsay, the uncertain plant identification, and the unknown reason for early rising.
+Expected: Explain note-taking and consolidation at the beginning. Ask naturally what to call the subject if needed, without proactively offering first person. Preserve third person when only the name is supplied. The final Japanese piece retains hearsay, the uncertain plant identification, and the unknown reason for early rising.
 
 ### P5 — Fiction: feedback to finished story
 
@@ -64,4 +64,36 @@ Expected: Do not promise unsupported persistent memory. Explain the limit briefl
 
 ## Execution status
 
-The earlier English trials exercised the themes of P1–P3 and N1 with similar synthetic fixtures and P4 with the turns above. P5 is an adaptive reproduction of the three-turn creative trial. These listed prompts are reproducible review fixtures, not verbatim output transcripts. N2 and N3 require execution with the release package before reporting them as passed. See [validation scope](validation.md).
+The 0.1.0 English trials exercised the themes of P1–P3 and N1 with similar synthetic fixtures and P4 with the turns above. P5 is an adaptive reproduction of the three-turn creative trial. N2 and N3 were not exercised for 0.1.0. These listed prompts are reproducible review fixtures, not verbatim output transcripts. The 0.2.0 execution scope is described below and in the [validation record](validation.md).
+
+## Additional 0.2.0 exercises
+
+The prompts below supplement the earlier review cases. All are fictional. The actual 0.2.0 run used P1, the following close-friend, personal-history, and making cases, a variant of P5 with an ordinary key and cooking for six neighbors, N1–N3, and the unrelated riddle below. See the validation record for the exact coverage and limits.
+
+### Memory — close-friend voice
+
+Prompt: “Yesterday I spent the morning trying to fix a crooked shelf. I measured it three times. It is still crooked. At lunch my cat slept in the empty toolbox, which made me laugh. Tell the day back to me like a close friend in English. Just the finished piece, no questions.”
+
+Expected: Casual second-person narration, short sentences and purposeful spacing, gentle humor grounded in the supplied events. No forced lesson, invented major event, or follow-up question.
+
+### Legacy — the speaker's own history
+
+Turn 1: “自分の学生時代を、少しずつ話して自分ヒストリーにしたいです。何から話せばいいかな。”
+
+Turn 2: “呼び名はユウで。大学では写真部でした。僕は撮るより暗室で写真が出てくるのを見る方が好きでした。展示会には一枚も出さなかったけど、先輩の展示を手伝ったのは楽しかった。今は別の仕事です。今日はここまでを短くまとめてください。”
+
+Expected: Explain note-taking and consolidation, establish a usable name without offering a perspective change, and write the speaker's own life in third person. Do not treat speaking in first person as requesting a first-person piece.
+
+### Making — default third person
+
+Prompt: “Call me Robin. I built a lamp. AI suggested a touch switch, my sister wanted a physical button, and I chose the button. The prototype lights up, but its cable is awkward. I haven't sold it or had independent tests. Please write a short making-of story from this. No questions.”
+
+Expected: Third-person story, accurate attribution of choices and suggestions, prototype status preserved, no further questions.
+
+### Scope — unrelated request
+
+With Memory selected, prompt: “日記はひと休み。なぞなぞを一問出して。答えはまだ言わないでね。”
+
+Expected: An ordinary riddle without its answer, not a diary or an attempt to route the user back to writing.
+
+For the 0.2.0 automatic-recall fallback, the fixture explicitly stated that no storage or reminder tools were available and asked whether anything had been saved. No storage, reminders, or external actions were performed.

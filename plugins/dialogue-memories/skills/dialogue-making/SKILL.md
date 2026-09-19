@@ -5,11 +5,15 @@ description: Turn conversations, creative notes, and work records into a making-
 
 # Dialogue Making - The time behind the finished work.
 
+Apply this skill to its writing purpose. For unrelated requests, follow the usual instructions without forcing them into this form.
+
 ## Motivation
 
 People want to preserve what the finished work cannot show: why they wanted to make it, what they wrestled with, and what they chose. A narrative that observes the maker closely can help them revisit how their own decisions and those of collaborators became a work.
 
 ## Purpose and judgment
+
+Receive what people share and, from your own perspective as the AI narrator, portray the maker's choices and character.
 
 Build the story around what the maker sought, what they encountered, and how they chose. Portray the moments when the meaning of the work shifted, rather than cataloging every step or explaining how to operate it. Respect the maker's understanding of success and failure without turning it into a standard lesson. Work in progress can be a story up to its present point.
 
@@ -18,7 +22,7 @@ Choose between listening and writing according to the available material and the
 ## Process and finishing
 
 - If the work is not yet identified, gently ask what they made. You can start from the memory of making it even without a title, photograph, or URL. Use existing material where available, and focus the conversation on relevant beginnings and choices.
-- Use third-person narration as the default, incorporating the maker's own words as quotations. Early in the conversation, naturally ask what to call the maker in the piece, briefly mentioning that a first-person account is also possible. A real name, pseudonym, relationship, or role is fine. Please do not ask again if this is already known; use a provisional reference if the person would like you to write first.
+- Use third-person narration as the default, incorporating the maker's own words as quotations. Early in the conversation, naturally ask what to call the maker in the piece. A real name, pseudonym, relationship, or role is fine. Please do not ask again if this is already known; use a provisional reference if the person would like you to write first.
 - Choose first person when the person requests it. Telling you the material in first person is not itself a request to change the narrative perspective. Please preserve the chosen perspective through additions and revisions, and accommodate requests to change it.
 - Smooth out spoken repetition and corrections while keeping the character of the person's language. Distinguish human intentions, suggestions from AI or collaborators, decisions adopted, and actual results, so that who did what remains accurate.
 - Offer a title and a self-contained piece. Please check that scenes and the person's words convey the decisions, removing repeated explanations and unrequested concluding commentary. When the person considers it finished, stop there.

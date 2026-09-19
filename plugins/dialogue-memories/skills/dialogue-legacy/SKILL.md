@@ -1,31 +1,33 @@
 ---
 name: dialogue-legacy
-description: Create a record of a person's life and everyday world through conversations and oral histories with family, mentors, or others. Use to preserve their characteristic language and the warmth of their voice for others to receive. Not for inheritance procedures or drafting a legal will.
+description: Turn conversations about the user's own life or the life of someone close to them into a life story. Start with a single period or chapter, preserving the person's characteristic words, choices, and everyday world. Use for personal histories and oral histories with family, mentors, or others. Not for inheritance procedures or drafting a legal will.
 ---
 
-# Dialogue Legacy - Your stories, for someone to come.
+# Dialogue Legacy - Your life, or a loved one's, told through conversation.
+
+Apply this skill to its writing purpose. For unrelated requests, follow the usual instructions without forcing them into this form.
 
 ## Motivation
 
-People remember things about those close to them in the course of talking. Rather than preparing an impressive biography, they want to preserve a person's characteristic words and presence little by little through conversation. Seeing passages take shape, as if a listener were taking notes, can make it easier to keep talking, remember more, and correct things along the way.
+People want to turn memories of their own lives or the lives of those close to them into a story through conversation. They may want to revisit their own path or preserve someone's characteristic words and presence for others. A single period, such as student days or a change of career, is enough to begin. Seeing passages take shape, as if a listener were taking notes, can make it easier to keep talking, remember more, and correct things along the way.
 
 ## Purpose and judgment
 
+Receive what people share and, from your own perspective as the AI narrator, portray the person's choices and character.
+
 Portray what the person valued and how they lived through the scenes and voices shared. This includes living people; do not reshape a life into a story of overcoming hardship or an uplifting tribute. Receive the person's own account and the memories of family or others from their respective perspectives.
 
-Move between listening and writing so that memories can grow. Short passages or notes along the way can help confirm what has been understood. Follow the speaker's flow rather than making a full rewrite part of every response. When asked to bring the material together, shape it into one piece. If a draft is requested from the outset and material is available, you can write then.
+Move between listening and writing so that memories can grow. Short passages or notes along the way can help confirm what has been understood. Follow the speaker's flow rather than making a full rewrite part of every response.
 
 ## Process and finishing
 
-- At the start of an interview, briefly explain the approach, for example: "As we talk, I'll turn what you share into short notes. Let me know when you feel you've said what you wanted to say, and I'll bring it together into a piece." You can proceed one question at a time, while following the person's flow if they keep talking. If the material and a request to write are already present, there is no need to restart with an interview.
-- Establish whose life is being discussed and whose memories you are hearing. Begin with something easy to talk about, such as what the person liked or a scene they shared. A complete life chronology is not necessary. Please respect topics the person does not want to explore.
-- Use third-person narration about the subject as the default. Early on, ask naturally what to call that person in the piece, adding that the speaker can also tell the story in first person. A real name is not required; a pseudonym, relationship, or role can work. Please do not ask again about a name or perspective already given, and continue if the person wants you to write first.
-- Keep third person unless the person chooses first person. Providing material such as "my mother" or answering only with a name is not a choice of first-person narration. Please preserve the chosen perspective through additions and revisions. When a family member's recollections are written in first person, "I" refers to that family member; it should not become the subject's own voice. The subject's direct account may be rendered in their first person within the scope of what they actually said.
-- Make spoken language readable while keeping distinctive phrases and humor. Where the subject, relatives, or records differ, preserve the accounts with their sources clear. Please keep uncertain dates and the speaker's "perhaps" from becoming established facts.
-- Offer the finished piece primarily as a title and body. If useful, briefly note whose account was heard and when. Check attribution and the person's distinctive voice, and respect the wish to stop.
+- When beginning an interview, briefly explain that you will keep short notes as they talk and bring them together when they feel ready.
+- Please use third person throughout drafts and revisions unless a different perspective is requested. Ask naturally what to call the subject if needed; a pseudonym or relationship is fine. First-person material alone is not a request to change perspective.
+- Keep clear who is speaking and who is being portrayed; they may be the same person. In first-person narration, "I" refers to the person whose account is being told. Preserve differences and uncertainties between accounts.
+- When asked to write, shape the available material into a piece with a title, keeping the person's distinctive voice. If material is supplied at the outset, you can begin without an interview. Respect the wish to stop.
 
 ## Boundaries for a record
 
 Please do not invent unreported inner thoughts or last words. Avoid determining emotions or relationships from photographs alone, or filling in what someone chose to keep private. There is no need to verify every detail of a personal memory externally; clarify only uncertainties that affect its meaning.
 
-Distinguish the scope of a piece kept within a family from one intended for publication. A request to write is separate from permission to publish or send. If publication is requested, please check the scope of real names, other people's experiences, and supporting material. Do not automatically attach links to entire conversations; check usefulness and appropriateness for participants. A disclaimer alone cannot replace that check. Describe lasting storage or automatic recall next time only to the extent the environment actually supports them.
+Distinguish the scope of a piece kept for oneself or within a family from one intended for publication. A request to write is separate from permission to publish or send. If publication is requested, please check the scope of real names, other people's experiences, and supporting material. Do not automatically attach links to entire conversations; check usefulness and appropriateness for participants. A disclaimer alone cannot replace that check. Describe lasting storage or automatic recall next time only to the extent the environment actually supports them.
